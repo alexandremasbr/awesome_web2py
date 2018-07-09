@@ -14,15 +14,15 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 ## Websites
 
 * [web2py](http://web2py.com/) - Web2py official website.
-* [web2pybrasil](http://web2py.com/) - Web2py official website.
+* [web2pybrasil](http://web2py.com.br/) - Web2py official website.
 
 ## E-commerce 
 
-* [easystore](https://github.com/juliarizza/easy_store) - A simple web2py model for e-commerce 
+* [easystore](https://github.com/juliarizza/easy_store) - A simple web2py model for e-commerce by Julia Rizza
 
 ##  E-learning
 
-* [web2courses ](https://github.com/juliarizza/web2courses) - A simple web2py model for e-commerce 
+* [web2courses ](https://github.com/juliarizza/web2courses) - A simple web2py model for e-commerce by Julia Rizza
 
 ### Tutorials/courses
 
