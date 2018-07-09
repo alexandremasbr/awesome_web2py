@@ -8,7 +8,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
+## User Groups
 
+### Telegram
+
+* [Web2py Brasil] (https://t.me/web2pybrasil) Portuguse speakers group
 
 
 ## Websites
