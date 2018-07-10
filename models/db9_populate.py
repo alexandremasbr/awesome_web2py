@@ -1,4 +1,16 @@
 id_admin_user, id_admin_grp = None,None
+base_sys =db(db.t_systems.f_system=="awesome").select()
+if not base_sys:
+    id_base_sys = db.t_systems.insert(
+                                    f_system = "awesome", 
+                                    f_acronym = "aw", 
+                                    f_alias = "Awesome", 
+                                    f_icon = "cogs", 
+                                    f_summary = "Awesome System is a template system to allow you beggining awesome apps", 
+                                    )
+
+
+                        
 admin_user =db(db.auth_user.username=="admin").select()                        
 if not admin_user:
     id_admin_user = db.auth_user.insert(
@@ -52,5 +64,9 @@ if not master:
         db.t_menu_grupo.insert(
                                     f_menu = idd, 
                                     f_grupo = id_admin_grp
+                                    )
+        db.t_menu_system.insert(
+                                    f_menu = idd, 
+                                    f_system = id_base_sys
                                     )
 
