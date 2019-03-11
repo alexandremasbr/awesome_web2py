@@ -26,3 +26,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 * [Curso web2py (pt-br)](https://www.youtube.com/playlist?list=PL5CWed0-MqAPLiMS5gJvWKZDBez-vcRuN) - IPortuguese course by Bruno Rocha
 
+
+### Repositórios
+
+* [Web2py Starter baseado em Admin Lte](https://github.com/arisobel/web2py_starter) - Com administração de menus e grupos baeados nas tabelas da implementação RBAC do web2py
